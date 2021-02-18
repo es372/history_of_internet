@@ -15,19 +15,9 @@ div {
     width: 100%;
 }
 
-li{
-    display: inline-block;
+li {
+    list-style: none;
 }
-
 li a {
     text-decoration: none;
-    color: black;
-}
-
-li:hover {
-    background-color: lightblue;
-}
-
-li a:hover {
-    color: red;
 }
