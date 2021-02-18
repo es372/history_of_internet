@@ -8,6 +8,8 @@ div {
     padding: 0;
 }
 
-img {
-    width: 80%;
+.image_sizing {
+    max-width: 80%;
+    margin: auto;
 }
+
