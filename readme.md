@@ -1,5 +1,5 @@
 #History of The Internet Website by Ethan Singh
-A. The Website Discusses:
+#A. The Website Discusses:
 1. Invention of the Internet
 2. Browser Wars
 3. Internet Search
