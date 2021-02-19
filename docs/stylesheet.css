@@ -2,6 +2,11 @@ html {
     background-color: #d3d3d3;
 }
 
+h2 {
+    padding: 10px;
+    color: mediumpurple;
+}
+
 div {
     margin: auto;
     width: 960px;
@@ -15,19 +20,11 @@ div {
     width: 100%;
 }
 
-li{
-    display: inline-block;
+ol {
+    display: block;
+    list-style: none;
+    margin: auto;
 }
 
-li a {
-    text-decoration: none;
-    color: black;
-}
 
-li:hover {
-    background-color: lightblue;
-}
 
-li a:hover {
-    color: red;
-}
